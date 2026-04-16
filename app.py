@@ -1,1 +1,1 @@
-"print("test lab6 ")"
+"print('Initial commit')" 
